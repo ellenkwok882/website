@@ -1,8 +1,8 @@
 /* General Styles */
 body {
-    font-family: Arial, sans-serif;
-    background-color: #eef4fc; /* Light Blue Background */
-    color: #7154f1; /* Purple Font Color */
+    font-family: 'Open Sans', sans-serif; 
+    background-color: #dad7e0; /* Light Blue Background */
+    color: #211e2e; /* Purple Font Color */
     margin: 0;
     padding: 0;
     display: flex;
@@ -20,7 +20,7 @@ body {
 
 h1 {
     font-size: 2.5em;
-    color: #7154f1;
+    color: #211e2e;
     margin-bottom: 20px;
 }
 
@@ -37,7 +37,7 @@ p {
 }
 
 .button {
-    background-color: #7154f1;
+    background-color: #211e2e;
     color: white;
     text-decoration: none;
     padding: 15px 30px;
