@@ -47,7 +47,9 @@ p {
 }
 
 .button:hover {
-    background-color: #5737c0;
+    background-color: #dad7e0;
+    border: 1px solid #211e2e;
+    color: #211e2e;
 }
 
 @media screen and (max-width: 600px) {
